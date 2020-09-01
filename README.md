@@ -57,6 +57,7 @@ fire insurance (R$): fire insurance value
 
 total (R$): the sum of all values
 
+# Steps
 
 1.The database was extracted from this Kaggle competition:https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent. 
 
