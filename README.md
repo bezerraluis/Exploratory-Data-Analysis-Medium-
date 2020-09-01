@@ -1,29 +1,69 @@
-# Analise Exploratoria de dados Medium
-
-Analise exploratoria completa do artigo publicado no Medium
+# Exploratory Data Analysis (Medium)
 
 
+Full exploratory data analysis of the article published in Medium
 
-# [Project 2 : Análise Exploratória Medium ](https://github.com/bezerraluis/-Main-projects/blob/master/Projects/Post_Medium_Analise_Explorat%C3%B3ria.ipynb)
+
+
+
+# [Project  : Exploratory Data Analysis (Medium)](https://github.com/bezerraluis/-Main-projects/blob/master/Projects/Post_Medium_Analise_Explorat%C3%B3ria.ipynb)
 
 ![houses](https://github.com/bezerraluis/-Main-projects/blob/master/images/cidade.jpg)
 
 
-1.A base de dados foi extraída desta competição do Kaggle:https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent. 
+## The purpose of this exploratory data analysis is to validate the hypotheses below.
+
+# Hypotheses
+
+Some cities have higher properties prices;
+
+Having animals impact on the prices ;
+
+Houses with a higher condominium fee have a higher rent value;
+
+Furnished houses have a higher rent value;
+
+The number of parking spaces impact on rent value.
 
 
-2.Neste dataset temos registros de imóveis de um site de aluguel são 13 variáveis e 10 000 apontamentos
+# Understanding the dataset
 
-3. Realizar tratamento dos dados 
 
-4. Realizar análise exploratória 
+This dataset contains 10692 properties to rent with 13 different features
 
-5. Realizar criação de novas variáveis 
+city: City where the property is located 
 
-6.criação da baseline
+area: Property area
 
-7. Realizar Cross Validation
+rooms: Quantity of rooms
 
-8.Tunar hiper parametros
+bathroom: Quantity of bathroom
 
-9.Escolher melhor modelo com os parametros otimizados 
+parking spaces: Quantity of parking spaces
+
+floor: Floor
+
+animals: Accept animals?
+
+furniture: Furniture?
+
+hoa (R$): Homeowners association tax
+
+rent amount (R$)sort: Rent amount
+
+property tax: municipal property tax
+
+fire insurance (R$): fire insurance value
+
+total (R$): the sum of all values
+
+
+1.The database was extracted from this Kaggle competition:https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent. 
+
+
+2. In this dataset we have real estate records for a rental site, there are 13 variables and 10 000 entries
+
+3. Perform data processing
+
+4. Conduct exploratory analysis
+
