@@ -6,7 +6,7 @@ Full exploratory data analysis of the article published in Medium
 
 
 
-# [Project  : Exploratory Data Analysis (Medium)](https://github.com/bezerraluis/-Main-projects/blob/master/Projects/Post_Medium_Analise_Explorat%C3%B3ria.ipynb)
+# [Project  : Exploratory Data Analysis (Medium)](https://github.com/bezerraluis/Analise-Exploratoria-de-dados-Medium/blob/master/Projects/Exploratory_Data_Analysis_.ipynb)
 
 ![houses](https://github.com/bezerraluis/-Main-projects/blob/master/images/cidade.jpg)
 
